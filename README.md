@@ -1,6 +1,10 @@
 # @builtwithjavascript/react-file-upload
 A React file upload component with validation (unstyled).
 
+[![npm version](https://badge.fury.io/js/@builtwithjavascript%2Freact-file-upload.svg)](https://badge.fury.io/js/@builtwithjavascript%2Freact-file-upload)
+
+## Screenshot
+
 <img src="readme-files/react-screenshot.png" alt="React Screenshot" style="width:300px;"/>
 
 ## NOTE
