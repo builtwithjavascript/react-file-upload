@@ -1,6 +1,6 @@
 {
   "name": "@builtwithjavascript/react-file-upload",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React file upload component with validation - unstyled",
   "author": "Damiano Fusco",
   "license": "MIT",
@@ -35,7 +35,7 @@
     }
   },
   "devDependencies": {
-    "@builtwithjavascript/file-input-validator": "^1.0.2",
+    "@builtwithjavascript/file-input-validator": "^1.0.3",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.7",
     "@types/react": "^18.2.79",
