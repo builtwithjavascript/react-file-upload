@@ -1,6 +1,6 @@
 {
   "name": "@builtwithjavascript/react-file-upload",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React file upload component with validation - unstyled",
   "author": "Damiano Fusco",
   "license": "MIT",
