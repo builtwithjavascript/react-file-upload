@@ -69,4 +69,3 @@ const onUploadClick = async (fileInfo: IFileInfo) => {
 ```
 
 NOTE: if you pass `showOnlyErrors` true, that only the validator items that fail will be displayed.
-
