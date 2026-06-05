@@ -1,6 +1,6 @@
 {
   "name": "@builtwithjavascript/react-file-upload",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A React file upload component with validation - unstyled",
   "author": "Damiano Fusco",
   "license": "MIT",
@@ -49,16 +49,16 @@
   "main": "./dist/react-file-upload.umd.js",
   "module": "./dist/react-file-upload.es.js",
   "devDependencies": {
-    "@builtwithjavascript/file-input-validator": "^1.0.7",
-    "@types/node": "^24.10.1",
+    "@builtwithjavascript/file-input-validator": "^1.0.9",
+    "@types/node": "^25.9.1",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^5.1.1",
-    "jsdom": "^27.3.0",
-    "prettier": "^3.7.4",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "typescript": "~5.9.3",
-    "vite": "^7.2.4",
-    "vitest": "^4.0.16"
+    "@vitejs/plugin-react": "^6.0.2",
+    "jsdom": "^29.1.1",
+    "prettier": "^3.8.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "typescript": "~6.0.3",
+    "vite": "^8.0.16",
+    "vitest": "^4.1.8"
   }
 }
